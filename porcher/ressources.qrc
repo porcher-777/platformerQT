@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/background/BG.png</file>
+        <file>assets/obstacle/plat1.png</file>
+        <file>assets/obstacle/plat2.png</file>
+        <file>assets/obstacle/plat3.png</file>
+        <file>assets/obstacle/plat4.png</file>
+        <file>assets/obstacle/plat5.png</file>
+        <file>assets/character/animsheet_runr.png</file>
+        <file>assets/character/animsheet_rest.png</file>
+        <file>assets/character/animsheet_runl.png</file>
+        <file>assets/character/animsheet_jump.png</file>
+        <file>assets/character/animsheet_fall.png</file>
+        <file>assets/menu/back_square_button.png</file>
+        <file>assets/menu/controls_button.png</file>
+        <file>assets/menu/down_square_button.png</file>
+        <file>assets/menu/exit_button.png</file>
+        <file>assets/menu/home_square_button.png</file>
+        <file>assets/menu/next_square_button.png</file>
+        <file>assets/menu/pause_square_button.png</file>
+        <file>assets/menu/play_button.png</file>
+        <file>assets/menu/up_square_button.png</file>
+        <file>assets/menu/x_square_button.png</file>
+        <file>assets/background/menu_controls.png</file>
+        <file>assets/background/BG_menu.png</file>
+        <file>assets/soul/souls.png</file>
+        <file>assets/door/doors.png</file>
+        <file>assets/ennemy/minotaur_al.png</file>
+        <file>assets/ennemy/minotaur_ar.png</file>
+        <file>assets/ennemy/minotaur_wl.png</file>
+        <file>assets/ennemy/minotaur_wr.png</file>
+        <file>assets/character/animsheet_death.png</file>
+        <file>assets/background/BG_bad_ending.png</file>
+        <file>assets/background/BG_good_ending.png</file>
+        <file>music/Heavens_door.wav</file>
+        <file>music/Heavens_door_menu.wav</file>
+    </qresource>
+</RCC>
